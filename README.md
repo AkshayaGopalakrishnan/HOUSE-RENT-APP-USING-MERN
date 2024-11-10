@@ -14,7 +14,7 @@ A MERN (MongoDB, Express.js, React.js, Node.js) web application designed to faci
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
-- [Project Implementation & Execution](#project-implementation-&-execution)
+- [Project Implementation & Execution](#project-implementation--execution)
 
 ---
 
@@ -177,4 +177,5 @@ Once development is complete, the application is tested to ensure all features a
 
 - **Tenant Panel**:
   ![Tenant Panel](images/tenant-panel.png)
+---
 
