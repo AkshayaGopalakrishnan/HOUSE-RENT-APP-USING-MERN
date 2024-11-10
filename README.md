@@ -165,17 +165,19 @@ Once development is complete, the application is tested to ensure all features a
 
 - **Landing Page**:
   ![Landing Page](images/landing-page.png)
+  ![](images/landingimg.png)
 
 - **Login and Register Page**:
-  ![Login and Register Page](images/login-register-page.png)
+  ![Login Page](images/login.png)
+  ![Register page](images/register.png)
 
 - **Admin Panel**:
-  ![Admin Panel](images/admin-panel.png)
+  ![Admin Panel](images/admin.png)
 
 - **Owner Panel**:
-  ![Owner Panel](images/owner-panel.png)
+  ![Owner Panel](images/owner.png)
 
 - **Tenant Panel**:
-  ![Tenant Panel](images/tenant-panel.png)
+  ![Tenant Panel](images/tenant.png)
 ---
 
