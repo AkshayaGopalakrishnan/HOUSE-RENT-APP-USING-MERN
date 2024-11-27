@@ -166,7 +166,7 @@ Once development is complete, the application is tested to ensure all features a
 - **Landing Page**:
   ![Landing Page](images/landing-page.png)
 
-   ![](images/landingimg.png)
+   ![L2](images/landingimg.png)
 
 - **Login and Register Page**:
   ![Login Page](images/login.png)
