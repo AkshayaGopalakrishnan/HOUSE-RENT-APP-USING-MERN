@@ -164,9 +164,8 @@ Contributions are welcome! Please follow these steps:
 Once development is complete, the application is tested to ensure all features are functional and bug-free. The following are screenshots of the key components of the app:
 
 - **Landing Page**:
-  ![Landing Page](images/landing-page.png)
-
-  
+  ![Landing Page](images/landingPage.png)
+  ![L2](images/landingimg.png)
 
 - **Login and Register Page**:
   ![Login Page](images/login.png)
